@@ -1,0 +1,16 @@
+.container-dark {
+    background-color: #222;
+  }
+  
+  .text-light {
+    color: #fff;
+  }
+  
+  /* Light Mode Styles */
+  .container-light {
+    background-color: #f5f5f5;
+  }
+  
+  .text-dark {
+    color: #000;
+  }
